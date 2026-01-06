@@ -116,7 +116,6 @@ An Improved YOLOv9-Based Object Detection with Attention Mechanism for Personal 
 ---
 
   ## 📫 Contact
-💡 Always open to new opportunities and collaborations!  
 📧 **Email:** [ohoylee@gmail.com](mailto:ohoylee@gmail.com), [ohoylee@g.skku.edu](mailto:ohoylee@g.skku.edu)  
 📍 **Location:** South Korea 🇰🇷
 
