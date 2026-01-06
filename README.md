@@ -24,18 +24,20 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | Date       | Title & Topic                                                                                         | Link  |
 |------------|-------------------------------------------------------------------------------------------------------|-------|
 | 2023-12-15 | LED-Display Defect Detection Based on YOLOv5 and Transformer                                          | [Link](https://ieeexplore.ieee.org/document/10287328/) |
-| 2025-02-21 | FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects                              | [Link]() |
-| 2025-03-19 | RTMO: Towards High-Performance One-Stage Real-Time Multi-Person Pose Estimation                       | [Link]() |
-| 2025-04-09 | Towards Privacy-Supporting Fall Detection via Deep Unsupervised RGB2Depth Adaptation                  | [Link]() |
-| 2025-05-21 | Can LLMs Serve As Time Series Anomaly Detectors?                                                      | [Link]() |
-| 2025-06-04 | Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena                                                | [Link]() |
-| 2025-07-02 | Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection                  | [Link]() |
-| 2025-07-23 | Flashback: Memory-Driven Zero-shot, Real-time Video Anomaly Detection                                 | [Link]() |
-| 2025-08-02 | Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities                     | [Link]() |
-| 2025-09-02 | Time-LLM Time Series Forecasting by Reprogramming Large Language Models                               | [Link]() |
-| 2025-09-30 | A DeNoising FPN With Transformer R-CNN for Tiny Object Detection                                      | [Link]() |
-| 2025-10-29 | FlashAttention: Fast and Memory-Efficient Exact Attention                                            | [Link]() |
-| 2025-11-01 | Feature Information Driven Position Gaussian Distribution Estimation for Tiny Object Detection        | [Link]() |
+| 2025-02-21 | FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects                              | [Link](https://youtu.be/iUBmHAUkpSE?si=-Ymr17vHd4zjRHCo) |
+| 2025-03-19 | RTMO: Towards High-Performance One-Stage Real-Time Multi-Person Pose Estimation                       | [Link](https://youtu.be/mvggWKpt4Sg?si=Pw-CjLlM3yofAXRq) |
+| 2025-04-09 | Towards Privacy-Supporting Fall Detection via Deep Unsupervised RGB2Depth Adaptation                  | [Link](https://youtu.be/ts_wbYFVYWw?si=J32SoDJAH378VOfI) |
+| 2025-05-21 | Can LLMs Serve As Time Series Anomaly Detectors?                                                      | [Link](https://youtu.be/ALNr3j7yIxk?si=LajCznno6WOdf0zz) |
+| 2025-06-04 | Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena                                                | [Link](https://youtu.be/7tQvyM7Chrg?si=ItGkgmVWsm3OxAG7) |
+| 2025-07-02 | Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection                  | [Link](https://youtu.be/E6yd_QKpgL0?si=kgE-xtHM9ZKUnZW2) |
+| 2025-07-23 | Flashback: Memory-Driven Zero-shot, Real-time Video Anomaly Detection                                 | [Link](https://youtu.be/DBLSFJCxdjg?si=2smpdB7bnnjP1I6O) |
+| 2025-08-02 | Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities                     | [Link](https://youtu.be/zub2Iovvi2Y?si=CWk9UBjBthSrPQu8) |
+| 2025-09-02 | Time-LLM Time Series Forecasting by Reprogramming Large Language Models                               | [Link](https://youtu.be/HowU-uS4Crc?si=OMbJlkt8SiJJE2Ab) |
+| 2025-10-29 | FlashAttention: Fast and Memory-Efficient Exact Attention                                             | [Link](https://youtu.be/CXzhe1959Fs?si=jkOBaVvS3n3ZUZOc) |
+| 2025-11-26 | LLMS CAN GET “BRAIN ROT”!                                                                             | [Link](https://youtu.be/WusEOBAmVTw?si=oZWySmuCWHifTtA1) |
+| 2025-12-23 | Harnessing Large Language Models for Training-free Video Anomaly Detection                            | [Link](https://youtu.be/xf4PE3AJXjY?si=xR_vpIEeTd6JIvVu) |
+| 2026-01-16 | H Neurons : On the Existence, Impact, and Origin of Hallucination Associated Neurons in LLMs          | [Link](https://youtu.be/R-Z9YPSL_Gg?si=9rARSB9EiSUOinXq) |
+
 
 ---
 
